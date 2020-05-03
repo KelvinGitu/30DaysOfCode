@@ -1,4 +1,3 @@
-name = str(input("Enter a name: "))
 def isPalidrome(string):
     left_pos = 0
     right_pos =len(string) - 1
@@ -11,4 +10,5 @@ def isPalidrome(string):
         right_pos -=1
     return True
 
+name = str(input("Enter a name: "))
 print(isPalidrome(name))
