@@ -1,4 +1,4 @@
-#the program counts the number of uppercase and lowercase characters in a given string
+#the program counts the number of uppercase and lowercase characters in a given string.
 
 def string_test(string_sentence):
     upper_case = 0
