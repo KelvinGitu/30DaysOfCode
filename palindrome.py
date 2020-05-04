@@ -1,4 +1,4 @@
-#the program tests whether a given word is a palindrome
+#the program tests whether a given word is a palindrome.
 
 def isPalidrome(string):
     left_pos = 0
