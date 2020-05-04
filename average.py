@@ -1,4 +1,4 @@
-#the program calculates the average of numbers whose input is in the form of strings
+#the program calculates the average of numbers whose input is in the form of a string
 
 def average():
     numbers = str(input("Enter a string of numbers: "))
