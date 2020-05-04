@@ -1,4 +1,4 @@
-#the program counts the number of odd and even numbers in a given list or range
+#the program counts the number of odd and even numbers in a given list or range.
 
 def even_odd(list_of_num):
 
