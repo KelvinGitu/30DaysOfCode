@@ -1,3 +1,5 @@
+#the program calculates the average of numbers whose input is in the form of strings
+
 def average():
     numbers = str(input("Enter a string of numbers: "))
     numbers = numbers.split()
