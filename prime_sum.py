@@ -1,6 +1,6 @@
-#the program returns asum of prime numbers between 1 and an integer taken as the input
-
 def primeSum(num):
+    """the program returns asum of prime numbers between 1 and an 
+    integer taken as the input """                 
 
     total = 0
     for number in range(1, integer_num + 1):
